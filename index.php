@@ -3,71 +3,62 @@
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8">
+<?php
+$product = isset($_GET['product']) ? htmlspecialchars($_GET['product']) : 'ombak126';
+?>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="amphtml" href="https://gabungskrng.lol/amp2/">
-    <link rel="canonical" href="http://ftp.walleth.org/">
+<link rel="amphtml" href="https://gabungskrng.lol/amp3/?product=<?php echo $product; ?>">
+    <link rel="canonical" href="ftp.walleth.org">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
-      situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar d
- &ndash; Situs Rolet</title>
+      Link alternatif <?php echo $product; ?> Login di sini sekarang juga situs terkuat di bumi Jp b
+ &ndash; <?php echo $product; ?></title>
 
     
-      <meta name="description" content="situs rolet terpercaya 2024 gabung sekarang juga nikmati berbagai macam benefit nya deposit bisa via pulsa daftar dadu online sekarang juga menangkan jackpot berkali - kali lipat">
+      <meta name="description" content=" <?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!">
     
 
     
-      <meta name="google-site-verification" content="BmqESLD4bowm6nGUZcY8jElSOjo_qrzSczZ8DY3QQo4" />
-<meta property="og:site_name" content="Situs Rolet">
-<meta property="og:url" content="https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com/products/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu">
-<meta property="og:title" content="situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar d">
+
+<meta property="og:site_name" content="<?php echo $product; ?>">
+<meta property="og:url" content="https://3d262d-4.myshopify.com/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar">
+<meta property="og:title" content="<?php echo $product; ?> Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp b">
 <meta property="og:type" content="product">
-<meta property="og:description" content="situs rolet terpercaya 2024 gabung sekarang juga nikmati berbagai macam benefit nya deposit bisa via pulsa daftar dadu online sekarang juga menangkan jackpot berkali - kali lipat"><meta property="og:image" content="http://sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858">
-  <meta property="og:image:secure_url" content="https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858">
-  <meta property="og:image:width" content="823">
-  <meta property="og:image:height" content="823"><meta property="og:price:amount" content="20.000,00">
+<meta property="og:description" content="<?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!"><meta property="og:image" content="http://3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783">
+  <meta property="og:image:secure_url" content="https://3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783">
+  <meta property="og:image:width" content="1800">
+  <meta property="og:image:height" content="1808"><meta property="og:price:amount" content="20.000,00">
   <meta property="og:price:currency" content="IDR"><meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar d">
-<meta name="twitter:description" content="situs rolet terpercaya 2024 gabung sekarang juga nikmati berbagai macam benefit nya deposit bisa via pulsa daftar dadu online sekarang juga menangkan jackpot berkali - kali lipat">
+<meta name="twitter:title" content="Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp b">
+<meta name="twitter:description" content="<?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!">
+<link rel="icon" href="https://www.svgrepo.com/show/354160/panda.svg" type="image/x-icon" />
 
-
-    <script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771704336619" defer="defer"></script>
-    <script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511704336625" defer="defer"></script>
-    <script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591704336621" defer="defer"></script><script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111704336606" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/68410376410/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com/products/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu.oembed">
-<script async="async" src="/checkouts/internal/preloads.js?permanent-domain=85ae1b-3.myshopify.com&locale=en-ID"></script>
-<script id="shopify-features" type="application/json">{"accessToken":"0f3d4463115f15cc45b44fdef3d59c4e","betas":["rich-media-storefront-analytics"],"domain":"sq4avu5xnhfrihgj-68410376410.shopifypreview.com","predictiveSearch":true,"shopId":68410376410,"smart_payment_buttons_url":"https:\/\/sq4avu5xnhfrihgj-68410376410.shopifypreview.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/sq4avu5xnhfrihgj-68410376410.shopifypreview.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
+    <script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771704353645" defer="defer"></script>
+    <script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511704353651" defer="defer"></script>
+    <script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591704353647" defer="defer"></script><script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111704353633" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/63687098562/digital_wallets/dialog">
+<link rel="alternate" type="application/json+oembed" href="https://3d262d-4.myshopify.com/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar.oembed">
+<script async="async" src="/checkouts/internal/preloads.js?permanent-domain=3d262d-4.myshopify.com&locale=en-ID"></script>
+<script id="shopify-features" type="application/json">{"accessToken":"580bc749d41c44b0a5b58b14226cbda7","betas":["rich-media-storefront-analytics"],"domain":"3d262d-4.myshopify.com","predictiveSearch":true,"shopId":63687098562,"smart_payment_buttons_url":"https:\/\/3d262d-4.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/3d262d-4.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
 <script>var Shopify = Shopify || {};
-Shopify.shop = "85ae1b-3.myshopify.com";
+Shopify.shop = "3d262d-4.myshopify.com";
 Shopify.locale = "en";
 Shopify.currency = {"active":"IDR","rate":"1.0"};
 Shopify.country = "ID";
-Shopify.theme = {"name":"Dawn","id":139274387674,"theme_store_id":887,"role":"main"};
+Shopify.theme = {"name":"Dawn","id":133976064194,"theme_store_id":887,"role":"main"};
 Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};
-Shopify.cdnHost = "sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn";
+Shopify.cdnHost = "3d262d-4.myshopify.com/cdn";
 Shopify.routes = Shopify.routes || {};
 Shopify.routes.root = "/";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script id="__st">var __st={"a":68410376410,"offset":25200,"reqid":"958489dd-bf1b-4542-9d7c-9a930cfa2ef7","pageurl":"sq4avu5xnhfrihgj-68410376410.shopifypreview.com\/products_preview?preview_key=d8f5fdbc18b5c0e2b94946037f7e6dec","u":"c35c8de0be77","p":"product","rtyp":"product","rid":8172135088346};</script>
+<script id="__st">var __st={"a":63687098562,"offset":25200,"reqid":"ee15533c-12ec-44f9-8d7c-64f2471848a8","pageurl":"3d262d-4.myshopify.com\/products\/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar","u":"c798d5ab88ca","p":"product","rtyp":"product","rid":7792685646018};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
-<script>document.addEventListener('DOMContentLoaded', function() {
-  const previewBarInjector = new Shopify.PreviewBarInjector({
-    targetNode: document.body,
-    iframeRoot: 'https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com',
-    iframeSrc: 'https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com/preview_bar',
-    previewToken: '',
-    themeStoreId: '887',
-    permanentDomain: '85ae1b-3.myshopify.com',
-  });
-  previewBarInjector.init();
-});</script>
-<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
-<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
-<script integrity="sha256-o0rXHoHYF8JV/pI5sd/RPjI3ywH41Ezq5yxQ3ds5iuM=" defer="defer" src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shopifycloud/shopify/assets/storefront/bars/preview_bar_injector-a34ad71e81d817c255fe9239b1dfd13e3237cb01f8d44ceae72c50dddb398ae3.js" crossorigin="anonymous"></script>
-<script id="sections-script" data-sections="header" defer="defer" src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/compiled_assets/scripts.js?2"></script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//3d262d-4.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//3d262d-4.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header" defer="defer" src="//3d262d-4.myshopify.com/cdn/shop/t/1/compiled_assets/scripts.js?2"></script>
 <style id="shopify-dynamic-checkout">.shopify-payment-button__button--hidden {
   visibility: hidden;
 }
@@ -214,8 +205,8 @@ Shopify.routes.root = "/";</script>
   font-weight: 400;
   font-style: normal;
   font-display: swap;
-  src: url("//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ODVhZTFiLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d5666e18cd5dfe74303c8b9afdc80ef03f46acbec4c7b2a663348c57623c6fff") format("woff2"),
-       url("//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=ODVhZTFiLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=e81b674c73d13618f27e302725f080b31808c6b8bc8ef22ff18dd8c1de37131f") format("woff");
+  src: url("//3d262d-4.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=M2QyNjJkLTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d8773f259a3755c07e6ede0299a1e12ddb2075cf2bd54a209ce2d931741d6107") format("woff2"),
+       url("//3d262d-4.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=M2QyNjJkLTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=905dc4576080cfa95b6992a70fef9985ba1655c45f721e4d6d8f7145ebface09") format("woff");
 }
 
       @font-face {
@@ -223,8 +214,8 @@ Shopify.routes.root = "/";</script>
   font-weight: 700;
   font-style: normal;
   font-display: swap;
-  src: url("//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=ODVhZTFiLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=42717383cba170947676699a7b179eb09aa59803a628c4674965a18db0874b60") format("woff2"),
-       url("//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=ODVhZTFiLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=c2c616845af62ddd9b6f62268fc7a5b25902f9fa8c9c4126e12aa7a75b385187") format("woff");
+  src: url("//3d262d-4.myshopify.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=M2QyNjJkLTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=00a7ac44d7f84e3a702d9e6969f60163d0478de33c26e5523a3ddcb6ddcaf3f0") format("woff2"),
+       url("//3d262d-4.myshopify.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=M2QyNjJkLTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=f9f30b8ccf7735f7764914cf7682ce4b66f6508aaa3ced00c2cffb26dd827e2d") format("woff");
 }
 
       
@@ -234,8 +225,8 @@ Shopify.routes.root = "/";</script>
   font-weight: 400;
   font-style: normal;
   font-display: swap;
-  src: url("//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ODVhZTFiLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d5666e18cd5dfe74303c8b9afdc80ef03f46acbec4c7b2a663348c57623c6fff") format("woff2"),
-       url("//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=ODVhZTFiLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=e81b674c73d13618f27e302725f080b31808c6b8bc8ef22ff18dd8c1de37131f") format("woff");
+  src: url("//3d262d-4.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=M2QyNjJkLTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d8773f259a3755c07e6ede0299a1e12ddb2075cf2bd54a209ce2d931741d6107") format("woff2"),
+       url("//3d262d-4.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=M2QyNjJkLTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=905dc4576080cfa95b6992a70fef9985ba1655c45f721e4d6d8f7145ebface09") format("woff");
 }
 
 
@@ -517,10 +508,10 @@ Shopify.routes.root = "/";</script>
       }
     </style>
 
-    <link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/base.css?v=22615539281115885671704336607" rel="stylesheet" type="text/css" media="all" />
-<link rel="preload" as="font" href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ODVhZTFiLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d5666e18cd5dfe74303c8b9afdc80ef03f46acbec4c7b2a663348c57623c6fff" type="font/woff2" crossorigin><link rel="preload" as="font" href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ODVhZTFiLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d5666e18cd5dfe74303c8b9afdc80ef03f46acbec4c7b2a663348c57623c6fff" type="font/woff2" crossorigin><link
+    <link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/base.css?v=22615539281115885671704353633" rel="stylesheet" type="text/css" media="all" />
+<link rel="preload" as="font" href="//3d262d-4.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=M2QyNjJkLTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d8773f259a3755c07e6ede0299a1e12ddb2075cf2bd54a209ce2d931741d6107" type="font/woff2" crossorigin><link rel="preload" as="font" href="//3d262d-4.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=M2QyNjJkLTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d8773f259a3755c07e6ede0299a1e12ddb2075cf2bd54a209ce2d931741d6107" type="font/woff2" crossorigin><link
         rel="stylesheet"
-        href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561704336616"
+        href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561704353642"
         media="print"
         onload="this.media='all'"
       ><script>
@@ -530,11 +521,11 @@ Shopify.routes.root = "/";</script>
       }
     </script>
   <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 68410376410,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 68410376410,storefrontBaseUrl: "https://85ae1b-3.myshopify.com",cdnBaseUrl: "https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"44385407631578","image":{"src":"\/\/sq4avu5xnhfrihgj-68410376410.shopifypreview.com\/cdn\/shop\/files\/logoslot.webp?v=1704336858"},"price":{"amount":20000.0,"currencyCode":"IDR"},"product":{"id":"8172135088346","title":"situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu","untranslatedTitle":"situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu","url":"\/products\/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu","vendor":"Situs Rolet","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"44385407631578","image":{"src":"\/\/sq4avu5xnhfrihgj-68410376410.shopifypreview.com\/cdn\/shop\/files\/logoslot.webp?v=1704336858"},"price":{"amount":20000.0,"currencyCode":"IDR"},"product":{"id":"8172135088346","title":"situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu","untranslatedTitle":"situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu","url":"\/products\/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu","vendor":"Situs Rolet","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn","browser","0.0.412","80cd6a5fw8efabb83pbabe92ddm0cb690ee",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 63687098562,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 63687098562,storefrontBaseUrl: "https://3d262d-4.myshopify.com",cdnBaseUrl: "https://3d262d-4.myshopify.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"43867495694530","image":{"src":"\/\/3d262d-4.myshopify.com\/cdn\/shop\/files\/logoslotphising.png?v=1704353783"},"price":{"amount":20000.0,"currencyCode":"IDR"},"product":{"id":"7792685646018","title":"Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar","untranslatedTitle":"Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar","url":"\/products\/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"43867495694530","image":{"src":"\/\/3d262d-4.myshopify.com\/cdn\/shop\/files\/logoslotphising.png?v=1704353783"},"price":{"amount":20000.0,"currencyCode":"IDR"},"product":{"id":"7792685646018","title":"Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar","untranslatedTitle":"Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar","url":"\/products\/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://3d262d-4.myshopify.com/cdn","browser","0.0.412","80cd6a5fw8efabb83pbabe92ddm0cb690ee",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'IDR';
-var meta = {"product":{"id":8172135088346,"gid":"gid:\/\/shopify\/Product\/8172135088346","vendor":"Situs Rolet","type":"","variants":[{"id":44385407631578,"price":2000000,"name":"situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":8172135088346}};
+var meta = {"product":{"id":7792685646018,"gid":"gid:\/\/shopify\/Product\/7792685646018","vendor":"My Store","type":"","variants":[{"id":43867495694530,"price":2000000,"name":"Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":7792685646018}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -651,23 +642,23 @@ for (var attr in meta) {
     };
     Monorail.produce('monorail-edge.shopifysvc.com',
       'trekkie_storefront_load_errors/1.1',
-      {shop_id: 68410376410,
-      theme_id: 139274387674,
+      {shop_id: 63687098562,
+      theme_id: 133976064194,
       app_name: "storefront",
       context_url: window.location.href,
-      source_url: "//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/s/trekkie.storefront.d717ec71898e2fff396641e1a9bf63e61f989cc3.min.js"});
+      source_url: "//3d262d-4.myshopify.com/cdn/s/trekkie.storefront.d717ec71898e2fff396641e1a9bf63e61f989cc3.min.js"});
 
         };
         scriptFallback.async = true;
-        scriptFallback.src = '//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/s/trekkie.storefront.d717ec71898e2fff396641e1a9bf63e61f989cc3.min.js';
+        scriptFallback.src = '//3d262d-4.myshopify.com/cdn/s/trekkie.storefront.d717ec71898e2fff396641e1a9bf63e61f989cc3.min.js';
         first.parentNode.insertBefore(scriptFallback, first);
       };
       script.async = true;
-      script.src = '//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/s/trekkie.storefront.d717ec71898e2fff396641e1a9bf63e61f989cc3.min.js';
+      script.src = '//3d262d-4.myshopify.com/cdn/s/trekkie.storefront.d717ec71898e2fff396641e1a9bf63e61f989cc3.min.js';
       first.parentNode.insertBefore(script, first);
     };
     trekkie.load(
-      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":68410376410,"isMerchantRequest":null,"themeId":139274387674,"themeCityHash":"8442994870904162449","contentLanguage":"en","currency":"IDR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":63687098562,"isMerchantRequest":null,"themeId":133976064194,"themeCityHash":"8442994870904162449","contentLanguage":"en","currency":"IDR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
     );
 
     var loaded = false;
@@ -683,21 +674,21 @@ for (var attr in meta) {
       try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
       document.write = originalDocumentWrite;
 
-      window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":8172135088346});
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":7792685646018});
 
       var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
       var token = match? match[1]: undefined;
       if (!hasLoggedConversion(token)) {
         setCookieIfConversion(token);
-        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":44385407631578,"productId":8172135088346,"productGid":"gid:\/\/shopify\/Product\/8172135088346","name":"situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu","price":"20000.00","sku":"","brand":"Situs Rolet","variant":null,"category":"","nonInteraction":true});
-      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":44385407631578,"productId":8172135088346,"productGid":"gid:\/\/shopify\/Product\/8172135088346","name":"situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu","price":"20000.00","sku":"","brand":"Situs Rolet","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/sq4avu5xnhfrihgj-68410376410.shopifypreview.com\/products_preview?preview_key=d8f5fdbc18b5c0e2b94946037f7e6dec"});
+        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":43867495694530,"productId":7792685646018,"productGid":"gid:\/\/shopify\/Product\/7792685646018","name":"Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar","price":"20000.00","sku":"","brand":"My Store","variant":null,"category":"","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":43867495694530,"productId":7792685646018,"productGid":"gid:\/\/shopify\/Product\/7792685646018","name":"Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar","price":"20000.00","sku":"","brand":"My Store","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/3d262d-4.myshopify.com\/products\/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar"});
       }
     });
 
 
         var eventsListenerScript = document.createElement('script');
         eventsListenerScript.async = true;
-        eventsListenerScript.src = "//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+        eventsListenerScript.src = "//3d262d-4.myshopify.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
         document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
 
 })();</script>
@@ -713,11 +704,11 @@ for (var attr in meta) {
   window.BOOMR.application = "storefront-renderer";
   window.BOOMR.themeName = "Dawn";
   window.BOOMR.themeVersion = "12.0.0";
-  window.BOOMR.shopId = 68410376410;
-  window.BOOMR.themeId = 139274387674;
+  window.BOOMR.shopId = 63687098562;
+  window.BOOMR.themeId = 133976064194;
   window.BOOMR.renderRegion = "gcp-us-central1";
   window.BOOMR.url =
-    "https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+    "https://3d262d-4.myshopify.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
   var where = document.currentScript || document.getElementsByTagName("script")[0];
   var parentNode = where.parentNode;
   var promoted = false;
@@ -852,8 +843,8 @@ for (var attr in meta) {
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       Skip to content
     </a><!-- BEGIN sections: header-group -->
-<div id="shopify-section-sections--17255120306394__announcement-bar" class="shopify-section shopify-section-group-header-group announcement-bar-section"><link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-slideshow.css?v=107725913939919748051704336618" rel="stylesheet" type="text/css" media="all" />
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681704336618" rel="stylesheet" type="text/css" media="all" />
+<div id="shopify-section-sections--16437609758914__announcement-bar" class="shopify-section shopify-section-group-header-group announcement-bar-section"><link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-slideshow.css?v=107725913939919748051704353644" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681704353644" rel="stylesheet" type="text/css" media="all" />
 
 
 <div
@@ -872,15 +863,15 @@ for (var attr in meta) {
 </div>
 
 
-</div><div id="shopify-section-sections--17255120306394__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991704336612" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851704336617" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271704336614" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221704336610" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771704336609" media="print" onload="this.media='all'"><link rel="stylesheet" href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101704336616" media="print" onload="this.media='all'"><noscript><link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991704336612" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851704336617" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271704336614" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221704336610" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771704336609" rel="stylesheet" type="text/css" media="all" /></noscript>
+</div><div id="shopify-section-sections--16437609758914__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991704353639" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851704353643" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271704353640" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221704353636" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771704353636" media="print" onload="this.media='all'"><link rel="stylesheet" href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101704353642" media="print" onload="this.media='all'"><noscript><link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991704353639" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851704353643" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271704353640" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221704353636" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771704353636" rel="stylesheet" type="text/css" media="all" /></noscript>
 
 <style>
   header-drawer {
@@ -948,10 +939,10 @@ for (var attr in meta) {
       padding-top: 20px;
       padding-bottom: 20px;
     }
-  }</style><script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501704336620" defer="defer"></script>
-<script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451704336620" defer="defer"></script>
-<script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491704336607" defer="defer"></script>
-<script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541704336628" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+  }</style><script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501704353646" defer="defer"></script>
+<script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451704353646" defer="defer"></script>
+<script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491704353634" defer="defer"></script>
+<script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541704353653" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
   <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
     <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
   </symbol>
@@ -1033,7 +1024,7 @@ for (var attr in meta) {
     </div>
   </details>
 </header-drawer>
-<a href="/" class="header__heading-link link link--text focus-inset"><span class="h2">Situs Rolet</span></a>
+<a href="/" class="header__heading-link link link--text focus-inset"><span class="h2"><?php echo $product; ?></span></a>
 
 <nav class="header__inline-menu">
   <ul class="list-menu list-menu--inline" role="list"><li><a
@@ -1130,7 +1121,7 @@ for (var attr in meta) {
             </button>
           </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
 
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481704336613" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481704353639" rel="stylesheet" type="text/css" media="all" />
 
 <div class="predictive-search__loading-state">
   <svg
@@ -1235,7 +1226,7 @@ Item added to your cart
   {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "Situs Rolet",
+    "name": "My Store",
     
     "sameAs": [
       "",
@@ -1248,43 +1239,43 @@ Item added to your cart
       "",
       ""
     ],
-    "url": "https:\/\/sq4avu5xnhfrihgj-68410376410.shopifypreview.com"
+    "url": "https:\/\/3d262d-4.myshopify.com"
   }
 </script>
 </div>
 <!-- END sections: header-group -->
 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-      <section id="shopify-section-template--17255119978714__main" class="shopify-section section"><section
-  id="MainProduct-template--17255119978714__main"
-  class="section-template--17255119978714__main-padding gradient color-background-1"
-  data-section="template--17255119978714__main"
+      <section id="shopify-section-template--16437609431234__main" class="shopify-section section"><section
+  id="MainProduct-template--16437609431234__main"
+  class="section-template--16437609431234__main-padding gradient color-background-1"
+  data-section="template--16437609431234__main"
 >
-  <link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/section-main-product.css?v=141059467971401676601704336631" rel="stylesheet" type="text/css" media="all" />
-  <link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-accordion.css?v=180964204318874863811704336608" rel="stylesheet" type="text/css" media="all" />
-  <link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101704336616" rel="stylesheet" type="text/css" media="all" />
-  <link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681704336618" rel="stylesheet" type="text/css" media="all" />
-  <link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-rating.css?v=157771854592137137841704336617" rel="stylesheet" type="text/css" media="all" />
-  <link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-deferred-media.css?v=14096082462203297471704336611" rel="stylesheet" type="text/css" media="all" />
-<style data-shopify>.section-template--17255119978714__main-padding {
+  <link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/section-main-product.css?v=141059467971401676601704353657" rel="stylesheet" type="text/css" media="all" />
+  <link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-accordion.css?v=180964204318874863811704353635" rel="stylesheet" type="text/css" media="all" />
+  <link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101704353642" rel="stylesheet" type="text/css" media="all" />
+  <link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681704353644" rel="stylesheet" type="text/css" media="all" />
+  <link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-rating.css?v=157771854592137137841704353643" rel="stylesheet" type="text/css" media="all" />
+  <link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-deferred-media.css?v=14096082462203297471704353637" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.section-template--16437609431234__main-padding {
       padding-top: 27px;
       padding-bottom: 9px;
     }
 
     @media screen and (min-width: 750px) {
-      .section-template--17255119978714__main-padding {
+      .section-template--16437609431234__main-padding {
         padding-top: 36px;
         padding-bottom: 12px;
       }
-    }</style><script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/product-info.js?v=81873523020508815201704336625" defer="defer"></script>
-  <script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181704336624" defer="defer"></script>
+    }</style><script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/product-info.js?v=81873523020508815201704353650" defer="defer"></script>
+  <script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181704353650" defer="defer"></script>
 
   <div class="page-width">
     <div class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
     <div class="grid__item product__media-wrapper">
       
 <media-gallery
-  id="MediaGallery-template--17255119978714__main"
+  id="MediaGallery-template--16437609431234__main"
   role="region"
   
     class="product__column-sticky"
@@ -1292,28 +1283,28 @@ Item added to your cart
   aria-label="Gallery Viewer"
   data-desktop-layout="stacked"
 >
-  <div id="GalleryStatus-template--17255119978714__main" class="visually-hidden" role="status"></div>
-  <slider-component id="GalleryViewer-template--17255119978714__main" class="slider-mobile-gutter"><a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--17255119978714__main">
+  <div id="GalleryStatus-template--16437609431234__main" class="visually-hidden" role="status"></div>
+  <slider-component id="GalleryViewer-template--16437609431234__main" class="slider-mobile-gutter"><a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--16437609431234__main">
         Skip to product information
       </a><ul
-      id="Slider-Gallery-template--17255119978714__main"
+      id="Slider-Gallery-template--16437609431234__main"
       class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
       role="list"
     ><li
-            id="Slide-template--17255119978714__main-33208041242842"
+            id="Slide-template--16437609431234__main-31876551278786"
             class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in"
-            data-media-id="template--17255119978714__main-33208041242842"
+            data-media-id="template--16437609431234__main-31876551278786"
           >
 
 <div
   class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-  style="--ratio: 1.0; --preview-ratio: 1.0;"
+  style="--ratio: 0.995575221238938; --preview-ratio: 0.995575221238938;"
 >
   <noscript><div class="product__media media">
-        <img src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1946" alt="" srcset="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=246 246w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=493 493w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=600 600w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=713 713w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=823 823w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=990 990w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1100 1100w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1206 1206w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1346 1346w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1426 1426w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1646 1646w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+        <img src="//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1946" alt="" srcset="//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=246 246w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=493 493w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=600 600w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=713 713w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=823 823w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=990 990w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1100 1100w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1206 1206w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1346 1346w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1426 1426w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1646 1646w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1946 1946w" width="1946" height="1955" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
       </div></noscript>
 
-  <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17255119978714__main">
+  <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--16437609431234__main">
     <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true"><svg
   aria-hidden="true"
   focusable="false"
@@ -1330,7 +1321,7 @@ Item added to your cart
 </svg>
 </span>
 
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481704336613" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481704353639" rel="stylesheet" type="text/css" media="all" />
 
 <div class="loading__spinner hidden">
   <svg
@@ -1344,9 +1335,9 @@ Item added to your cart
   </svg>
 </div>
 <div class="product__media media media--transparent">
-      <img src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1946" alt="" srcset="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=246 246w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=493 493w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=600 600w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=713 713w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=823 823w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=990 990w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1100 1100w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1206 1206w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1346 1346w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1426 1426w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1646 1646w, //sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+      <img src="//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1946" alt="" srcset="//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=246 246w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=493 493w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=600 600w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=713 713w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=823 823w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=990 990w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1100 1100w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1206 1206w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1346 1346w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1426 1426w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1646 1646w, //3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&amp;width=1946 1946w" width="1946" height="1955" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
     </div>
-    <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="33208041242842">
+    <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="31876551278786">
       <span class="visually-hidden">
         Open media 1 in modal
       </span>
@@ -1387,21 +1378,21 @@ Item added to your cart
     </div>
     <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
       <product-info
-        id="ProductInfo-template--17255119978714__main"
-        data-section="template--17255119978714__main"
-        data-url="/products/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu"
+        id="ProductInfo-template--16437609431234__main"
+        data-section="template--16437609431234__main"
+        data-url="/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar"
         class="product__info-container product__column-sticky"
       ><p
                 class="product__text inline-richtext caption-with-letter-spacing"
                 
-              >Situs Rolet</p><div class="product__title" >
-                <h1>situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu</h1>
-                <a href="/products/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu" class="product__title">
+              ><?php echo $product; ?></p><div class="product__title" >
+                <h1><?php echo $product; ?> Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar</h1>
+                <a href="/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar" class="product__title">
                   <h2 class="h1">
-                    situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu
+                    Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar
                   </h2>
                 </a>
-              </div><div class="no-js-hidden" id="price-template--17255119978714__main" role="status" >
+              </div><div class="no-js-hidden" id="price-template--16437609431234__main" role="status" >
 <div
   class="
     price price--large price--show-badge"
@@ -1441,24 +1432,24 @@ Item added to your cart
       Sold out
     </span></div>
 </div><div class="product__tax caption rte"></div>
-              <div ><form method="post" action="/cart/add" id="product-form-installment-template--17255119978714__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="44385407631578">
+              <div ><form method="post" action="/cart/add" id="product-form-installment-template--16437609431234__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="43867495694530">
                   
-<input type="hidden" name="product-id" value="8172135088346" /></form></div>
-<noscript class="product-form__noscript-wrapper-template--17255119978714__main">
+<input type="hidden" name="product-id" value="7792685646018" /></form></div>
+<noscript class="product-form__noscript-wrapper-template--16437609431234__main">
   <div class="product-form__input hidden">
-    <label class="form__label" for="Variants-template--17255119978714__main">Product variants</label>
+    <label class="form__label" for="Variants-template--16437609431234__main">Product variants</label>
     <div class="select">
       <select
         name="id"
-        id="Variants-template--17255119978714__main"
+        id="Variants-template--16437609431234__main"
         class="select__select"
-        form="product-form-template--17255119978714__main"
+        form="product-form-template--16437609431234__main"
       ><option
             
               selected="selected"
             
             
-            value="44385407631578"
+            value="43867495694530"
           >Default Title - Rp 20.000,00</option></select>
       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
   <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
@@ -1469,18 +1460,18 @@ Item added to your cart
 </noscript>
 
 <div
-                id="Quantity-Form-template--17255119978714__main"
+                id="Quantity-Form-template--16437609431234__main"
                 class="product-form__input product-form__quantity"
                 
               >
                 
                 
 
-                <label class="quantity__label form__label" for="Quantity-template--17255119978714__main">
+                <label class="quantity__label form__label" for="Quantity-template--16437609431234__main">
                   Quantity
                   <span class="quantity__rules-cart no-js-hidden hidden">
 
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481704336613" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481704353639" rel="stylesheet" type="text/css" media="all" />
 
 <div class="loading__spinner hidden">
   <svg
@@ -1497,9 +1488,9 @@ Item added to your cart
                   </span>
                 </label>
                 <div class="price-per-item__container">
-                  <quantity-input class="quantity" data-url="/products/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu" data-section="template--17255119978714__main">
+                  <quantity-input class="quantity" data-url="/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar" data-section="template--16437609431234__main">
                     <button class="quantity__button no-js-hidden" name="minus" type="button">
-                      <span class="visually-hidden">Decrease quantity for situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu</span>
+                      <span class="visually-hidden">Decrease quantity for Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar</span>
                       <svg
   xmlns="http://www.w3.org/2000/svg"
   aria-hidden="true"
@@ -1516,17 +1507,17 @@ Item added to your cart
                       class="quantity__input"
                       type="number"
                       name="quantity"
-                      id="Quantity-template--17255119978714__main"
+                      id="Quantity-template--16437609431234__main"
                       data-cart-quantity="0"
                       data-min="1"
                       min="1"
                       
                       step="1"
                       value="1"
-                      form="product-form-template--17255119978714__main"
+                      form="product-form-template--16437609431234__main"
                     />
                     <button class="quantity__button no-js-hidden" name="plus" type="button">
-                      <span class="visually-hidden">Increase quantity for situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu</span>
+                      <span class="visually-hidden">Increase quantity for Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar</span>
                       <svg
   xmlns="http://www.w3.org/2000/svg"
   aria-hidden="true"
@@ -1540,11 +1531,11 @@ Item added to your cart
 
                     </button>
                   </quantity-input></div>
-                <div class="quantity__rules caption no-js-hidden" id="Quantity-Rules-template--17255119978714__main"></div></div>
+                <div class="quantity__rules caption no-js-hidden" id="Quantity-Rules-template--16437609431234__main"></div></div>
 <div ><product-form
       class="product-form"
       data-hide-errors="false"
-      data-section-id="template--17255119978714__main"
+      data-section-id="template--16437609431234__main"
     >
       <div class="product-form__error-message-wrapper" role="alert" hidden>
         <svg
@@ -1559,14 +1550,14 @@ Item added to your cart
           <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7">
         </svg>
         <span class="product-form__error-message"></span>
-      </div><form method="post" action="/cart/add" id="product-form-template--17255119978714__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+      </div><form method="post" action="/cart/add" id="product-form-template--16437609431234__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
           type="hidden"
           name="id"
-          value="44385407631578"
+          value="43867495694530"
           
           class="product-variant-id"
         ><div class="product-form__buttons"><button
-            id="ProductSubmitButton-template--17255119978714__main"
+            id="ProductSubmitButton-template--16437609431234__main"
             type="submit"
             name="add"
             class="product-form__submit button button--full-width button--secondary"
@@ -1575,7 +1566,7 @@ Item added to your cart
             <span>Add to cart
 </span>
 
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481704336613" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481704353639" rel="stylesheet" type="text/css" media="all" />
 
 <div class="loading__spinner hidden">
   <svg
@@ -1589,12 +1580,12 @@ Item added to your cart
   </svg>
 </div>
 </button><div data-shopify="payment-button" data-has-selling-plan="false" data-has-fixed-selling-plan="false" class="shopify-payment-button"><button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button><button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button></div>
-</div><input type="hidden" name="product-id" value="8172135088346" /></form></product-form><link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-pickup-availability.css?v=34645222959864780961704336615" rel="stylesheet" type="text/css" media="all" />
+</div><input type="hidden" name="product-id" value="7792685646018" /></form></product-form><link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-pickup-availability.css?v=34645222959864780961704353642" rel="stylesheet" type="text/css" media="all" />
 <pickup-availability
       class="product__pickup-availabilities no-js-hidden quick-add-hidden"
       
       data-root-url="/"
-      data-variant-id="44385407631578"
+      data-variant-id="43867495694530"
       data-has-only-default-variant="true"
       data-product-page-color-scheme="gradient color-background-1"
     >
@@ -1622,15 +1613,15 @@ Item added to your cart
       </template>
     </pickup-availability>
 
-    <script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331704336623" defer="defer"></script></div>
+    <script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331704353649" defer="defer"></script></div>
 <div class="product__description rte quick-add-hidden" >
-    <a title="daftar situs rolet" href="https://rebrand.ly/asunayuukii55" target="_blank"><img data-mce-fragment="1" alt="daftar situs rolet" src="https://i.ibb.co/BLFLfrZ/1-logodaftar.png" data-mce-src="https://i.ibb.co/BLFLfrZ/1-logodaftar.png"></a>
-                  situs rolet terpercaya 2024 gabung sekarang juga nikmati berbagai macam benefit nya deposit bisa via pulsa daftar dadu online sekarang juga menangkan jackpot berkali - kali lipat
+        <a title="daftar slot myanmar" href="https://rebrand.ly/asunayuukii55" target="_blank"><img data-mce-fragment="1" alt="daftar slot myanmar" src="https://i.ibb.co/BLFLfrZ/1-logodaftar.png" data-mce-src="https://i.ibb.co/BLFLfrZ/1-logodaftar.png"></a>
+                  <?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!
                 </div>
               
-<script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191704336632" defer="defer"></script>
+<script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191704353658" defer="defer"></script>
 
-<share-button id="Share-template--17255119978714__main" class="share-button quick-add-hidden" >
+<share-button id="Share-template--16437609431234__main" class="share-button quick-add-hidden" >
   <button class="share-button__button hidden">
     <svg
   width="13"
@@ -1649,7 +1640,7 @@ Item added to your cart
 
     Share
   </button>
-  <details id="Details-share-template--17255119978714__main">
+  <details id="Details-share-template--16437609431234__main">
     <summary class="share-button__button">
       <svg
   width="13"
@@ -1670,17 +1661,17 @@ Item added to your cart
     </summary>
     <div class="share-button__fallback motion-reduce">
       <div class="field">
-        <span id="ShareMessage-template--17255119978714__main" class="share-button__message hidden" role="status"> </span>
+        <span id="ShareMessage-template--16437609431234__main" class="share-button__message hidden" role="status"> </span>
         <input
           type="text"
           class="field__input"
-          id="ShareUrl-template--17255119978714__main"
-          value="https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com/products/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu"
+          id="ShareUrl-template--16437609431234__main"
+          value="https://3d262d-4.myshopify.com/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar"
           placeholder="Link"
           onclick="this.select();"
           readonly
         >
-        <label class="field__label" for="ShareUrl-template--17255119978714__main">Link</label>
+        <label class="field__label" for="ShareUrl-template--16437609431234__main">Link</label>
       </div>
       <button class="share-button__close hidden no-js-hidden">
         <svg
@@ -1716,7 +1707,7 @@ Item added to your cart
   </details>
 </share-button>
 
-<a href="/products/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu" class="link product__view-details animate-arrow">
+<a href="/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar" class="link product__view-details animate-arrow">
           View full details
           <svg
   viewBox="0 0 14 10"
@@ -1735,7 +1726,7 @@ Item added to your cart
 
   
 
-<product-modal id="ProductModal-template--17255119978714__main" class="product-media-modal media-modal">
+<product-modal id="ProductModal-template--16437609431234__main" class="product-media-modal media-modal">
   <div
     class="product-media-modal__dialog color-background-1 gradient"
     role="dialog"
@@ -1744,7 +1735,7 @@ Item added to your cart
     tabindex="-1"
   >
     <button
-      id="ModalClose-template--17255119978714__main"
+      id="ModalClose-template--16437609431234__main"
       type="button"
       class="product-media-modal__toggle"
       aria-label="Close"
@@ -1770,22 +1761,22 @@ Item added to your cart
     >
 <img
     class="global-media-settings global-media-settings--no-shadow"
-    srcset="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&width=550 550w,//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858 823w"
+    srcset="//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&width=550 550w,//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&width=1100 1100w,//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&width=1445 1445w,//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&width=1680 1680w,//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783 1800w"
     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-    src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/files/logoslot.webp?v=1704336858&width=1445"
-    alt="situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu"
+    src="//3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783&width=1445"
+    alt="Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar"
     loading="lazy"
     width="1100"
-    height="1100"
-    data-media-id="33208041242842"
+    height="1105"
+    data-media-id="31876551278786"
   ></div>
   </div>
 </product-modal>
 
 
   
-<script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461704336625" defer="defer"></script>
-    <script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/media-gallery.js?v=96661908581229995091704336622" defer="defer"></script><script>
+<script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461704353651" defer="defer"></script>
+    <script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/media-gallery.js?v=96661908581229995091704353648" defer="defer"></script><script>
     document.addEventListener('DOMContentLoaded', function () {
       function isIE() {
         const ua = window.navigator.userAgent;
@@ -1796,17 +1787,17 @@ Item added to your cart
       }
 
       if (!isIE()) return;
-      const hiddenInput = document.querySelector('#product-form-template--17255119978714__main input[name="id"]');
+      const hiddenInput = document.querySelector('#product-form-template--16437609431234__main input[name="id"]');
       const noScriptInputWrapper = document.createElement('div');
       const variantSwitcher =
-        document.querySelector('variant-radios[data-section="template--17255119978714__main"]') ||
-        document.querySelector('variant-selects[data-section="template--17255119978714__main"]');
+        document.querySelector('variant-radios[data-section="template--16437609431234__main"]') ||
+        document.querySelector('variant-selects[data-section="template--16437609431234__main"]');
       noScriptInputWrapper.innerHTML = document.querySelector(
-        '.product-form__noscript-wrapper-template--17255119978714__main'
+        '.product-form__noscript-wrapper-template--16437609431234__main'
       ).textContent;
       variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
 
-      document.querySelector('#Variants-template--17255119978714__main').addEventListener('change', function (event) {
+      document.querySelector('#Variants-template--16437609431234__main').addEventListener('change', function (event) {
         hiddenInput.value = event.currentTarget.value;
       });
     });
@@ -1814,22 +1805,22 @@ Item added to your cart
     {
       "@context": "http://schema.org/",
       "@type": "Product",
-      "name": "situs rolet terpercaya 2024 Agen rolet bisa deposit via pulsa daftar dadu",
-      "url": "https:\/\/sq4avu5xnhfrihgj-68410376410.shopifypreview.com\/products\/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu",
+      "name": "Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar",
+      "url": "https:\/\/3d262d-4.myshopify.com\/products\/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar",
       "image": [
-          "https:\/\/sq4avu5xnhfrihgj-68410376410.shopifypreview.com\/cdn\/shop\/files\/logoslot.webp?v=1704336858\u0026width=1920"
+          "https:\/\/3d262d-4.myshopify.com\/cdn\/shop\/files\/logoslotphising.png?v=1704353783\u0026width=1920"
         ],
-      "description": "situs rolet terpercaya 2024 gabung sekarang juga nikmati berbagai macam benefit nya deposit bisa via pulsa daftar dadu online sekarang juga menangkan jackpot berkali - kali lipat",
+      "description": "<?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!",
       
       "brand": {
         "@type": "Brand",
-        "name": "Situs Rolet"
+        "name": "My Store"
       },
       "offers": [{
             "@type" : "Offer","availability" : "http://schema.org/InStock",
             "price" : 20000.0,
             "priceCurrency" : "IDR",
-            "url" : "https:\/\/sq4avu5xnhfrihgj-68410376410.shopifypreview.com\/products\/situs-rolet-terpercaya-2024-agen-rolet-bisa-deposit-via-pulsa-daftar-dadu?variant=44385407631578"
+            "url" : "https:\/\/3d262d-4.myshopify.com\/products\/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar?variant=43867495694530"
           }
 ]
     }
@@ -1838,24 +1829,24 @@ Item added to your cart
 </section>
 
 
-</section><section id="shopify-section-template--17255119978714__related-products" class="shopify-section section"><link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-card.css?v=11469293100223554981704336609" rel="stylesheet" type="text/css" media="all" />
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101704336616" rel="stylesheet" type="text/css" media="all" />
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/section-related-products.css?v=80324771040738084201704336632" rel="stylesheet" type="text/css" media="all" />
+</section><section id="shopify-section-template--16437609431234__related-products" class="shopify-section section"><link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-card.css?v=11469293100223554981704353635" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101704353642" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/section-related-products.css?v=80324771040738084201704353657" rel="stylesheet" type="text/css" media="all" />
 
-<style data-shopify>.section-template--17255119978714__related-products-padding {
+<style data-shopify>.section-template--16437609431234__related-products-padding {
     padding-top: 27px;
     padding-bottom: 21px;
   }
 
   @media screen and (min-width: 750px) {
-    .section-template--17255119978714__related-products-padding {
+    .section-template--16437609431234__related-products-padding {
       padding-top: 36px;
       padding-bottom: 28px;
     }
   }</style><div class="color-background-1 gradient no-js-hidden">
   <product-recommendations
-    class="related-products page-width section-template--17255119978714__related-products-padding isolate scroll-trigger animate--slide-in"
-    data-url="/recommendations/products?section_id=template--17255119978714__related-products&product_id=8172135088346&limit=4"
+    class="related-products page-width section-template--16437609431234__related-products-padding isolate scroll-trigger animate--slide-in"
+    data-url="/recommendations/products?section_id=template--16437609431234__related-products&product_id=7792685646018&limit=4"
   >
     
   </product-recommendations>
@@ -1866,17 +1857,17 @@ Item added to your cart
     </main>
 
     <!-- BEGIN sections: footer-group -->
-<div id="shopify-section-sections--17255120273626__footer" class="shopify-section shopify-section-group-footer-group">
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/section-footer.css?v=125160298726032154631704336630" rel="stylesheet" type="text/css" media="all" />
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-newsletter.css?v=4727253280200485261704336615" rel="stylesheet" type="text/css" media="all" />
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991704336612" rel="stylesheet" type="text/css" media="all" />
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-list-payment.css?v=69253961410771838501704336612" rel="stylesheet" type="text/css" media="all" />
-<link href="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/component-list-social.css?v=35792976012981934991704336613" rel="stylesheet" type="text/css" media="all" />
+<div id="shopify-section-sections--16437609726146__footer" class="shopify-section shopify-section-group-footer-group">
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/section-footer.css?v=125160298726032154631704353655" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-newsletter.css?v=4727253280200485261704353641" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991704353639" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-list-payment.css?v=69253961410771838501704353638" rel="stylesheet" type="text/css" media="all" />
+<link href="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/component-list-social.css?v=35792976012981934991704353639" rel="stylesheet" type="text/css" media="all" />
 <style data-shopify>.footer {
     margin-top: 0px;
   }
 
-  .section-sections--17255120273626__footer-padding {
+  .section-sections--16437609726146__footer-padding {
     padding-top: 27px;
     padding-bottom: 27px;
   }
@@ -1886,11 +1877,11 @@ Item added to your cart
       margin-top: 0px;
     }
 
-    .section-sections--17255120273626__footer-padding {
+    .section-sections--16437609726146__footer-padding {
       padding-top: 36px;
       padding-bottom: 36px;
     }
-  }</style><footer class="footer color-background-1 gradient section-sections--17255120273626__footer-padding"><div class="footer__content-top page-width"><div
+  }</style><footer class="footer color-background-1 gradient section-sections--16437609726146__footer-padding"><div class="footer__content-top page-width"><div
           class="footer-block--newsletter scroll-trigger animate--slide-in"
           
             data-cascade
@@ -1899,7 +1890,7 @@ Item added to your cart
                 <div class="newsletter-form__field-wrapper">
                   <div class="field">
                     <input
-                      id="NewsletterForm--sections--17255120273626__footer"
+                      id="NewsletterForm--sections--16437609726146__footer"
                       type="email"
                       name="contact[email]"
                       class="field__input"
@@ -1912,7 +1903,7 @@ Item added to your cart
                       placeholder="Email"
                       required
                     >
-                    <label class="field__label" for="NewsletterForm--sections--17255120273626__footer">
+                    <label class="field__label" for="NewsletterForm--sections--16437609726146__footer">
                       Email
                     </label>
                     <button
@@ -1951,7 +1942,7 @@ Item added to your cart
     <div class="footer__content-bottom-wrapper page-width">
       <div class="footer__copyright caption">
         <small class="copyright__content"
-          >&copy; 2024, <a href="/" title="">Situs Rolet</a></small>
+          >&copy; 2024, <a href="/" title="">My Store</a></small>
         <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small></div>
     </div>
   </div>
@@ -1967,7 +1958,7 @@ Item added to your cart
     </ul>
 
     <script>
-      window.shopUrl = 'https://sq4avu5xnhfrihgj-68410376410.shopifypreview.com';
+      window.shopUrl = 'https://3d262d-4.myshopify.com';
       window.routes = {
         cart_add_url: '/cart/add',
         cart_change_url: '/cart/change',
@@ -2005,5 +1996,5 @@ Item added to your cart
         recipientFormExpanded: `Gift card recipient form expanded`,
         recipientFormCollapsed: `Gift card recipient form collapsed`,
       };
-    </script><script src="//sq4avu5xnhfrihgj-68410376410.shopifypreview.com/cdn/shop/t/1/assets/predictive-search.js?v=162273246065392412141704336624" defer="defer"></script></body>
+    </script><script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/predictive-search.js?v=162273246065392412141704353650" defer="defer"></script></body>
 </html>
