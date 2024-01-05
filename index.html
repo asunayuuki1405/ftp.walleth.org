@@ -3,35 +3,52 @@
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8">
-<?php
-$product = isset($_GET['product']) ? htmlspecialchars($_GET['product']) : 'ombak126';
-?>
+    <!-- JavaScript untuk mendapatkan parameter product dari URL -->
+    <script>
+        var product = new URLSearchParams(window.location.search).get('product') || 'ombak126';
+
+        // Menetapkan nilai variabel product ke properti og:site_name
+        var metaTag = document.createElement('meta');
+        metaTag.setAttribute('property', 'og:site_name');
+        metaTag.setAttribute('content', product);
+        document.head.appendChild(metaTag);
+
+        // Memperbarui konten elemen HTML di dalam body dengan nilai variabel product
+        document.addEventListener('DOMContentLoaded', function() {
+            // Menggunakan getElementById untuk contoh, Anda bisa menggunakan metode lain
+            document.getElementById('h1Tag').innerHTML = product;
+            document.getElementById('h2Tag').innerHTML = product;
+            document.getElementById('h3Tag').innerHTML = product;
+            document.getElementById('h4Tag').innerHTML = product;
+            // Juga bisa diterapkan ke elemen <a> atau elemen HTML lainnya
+        });
+    </script>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-<link rel="amphtml" href="https://gabungskrng.lol/amp3/?product=<?php echo $product; ?>">
+<link rel="amphtml" href="https://gabungskrng.lol/amp3/">
     <link rel="canonical" href="ftp.walleth.org">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
-      Link alternatif <?php echo $product; ?> Login di sini sekarang juga situs terkuat di bumi Jp b
- &ndash; <?php echo $product; ?></title>
+      Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp b
+ &ndash; </title>
 
     
-      <meta name="description" content=" <?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!">
+      <meta name="description" content=" Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!">
     
 
     
 
-<meta property="og:site_name" content="<?php echo $product; ?>">
+<meta property="og:site_name" content="alternatif">
 <meta property="og:url" content="https://3d262d-4.myshopify.com/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar">
-<meta property="og:title" content="<?php echo $product; ?> Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp b">
+<meta property="og:title" content="Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp b">
 <meta property="og:type" content="product">
-<meta property="og:description" content="<?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!"><meta property="og:image" content="http://3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783">
+<meta property="og:description" content="Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!"><meta property="og:image" content="http://3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783">
   <meta property="og:image:secure_url" content="https://3d262d-4.myshopify.com/cdn/shop/files/logoslotphising.png?v=1704353783">
   <meta property="og:image:width" content="1800">
   <meta property="og:image:height" content="1808"><meta property="og:price:amount" content="20.000,00">
   <meta property="og:price:currency" content="IDR"><meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp b">
-<meta name="twitter:description" content="<?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!">
+<meta name="twitter:description" content="Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!">
 <link rel="icon" href="https://www.svgrepo.com/show/354160/panda.svg" type="image/x-icon" />
 
     <script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771704353645" defer="defer"></script>
@@ -1024,7 +1041,7 @@ for (var attr in meta) {
     </div>
   </details>
 </header-drawer>
-<a href="/" class="header__heading-link link link--text focus-inset"><span class="h2"><?php echo $product; ?></span></a>
+<a href="/" class="header__heading-link link link--text focus-inset"><span id="h1Tag" class="h2">product</span></a>
 
 <nav class="header__inline-menu">
   <ul class="list-menu list-menu--inline" role="list"><li><a
@@ -1382,11 +1399,11 @@ Item added to your cart
         data-section="template--16437609431234__main"
         data-url="/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar"
         class="product__info-container product__column-sticky"
-      ><p
+      ><p id="h2Tag"
                 class="product__text inline-richtext caption-with-letter-spacing"
                 
-              ><?php echo $product; ?></p><div class="product__title" >
-                <h1><?php echo $product; ?> Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar</h1>
+              >product</p><div class="product__title" >
+                <h1 id="h3Tag"></h1><h1 > Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar</h1>
                 <a href="/products/link-alternatif-login-di-sini-sekarang-juga-situs-terkuat-di-bumi-jp-berapapun-pasti-di-bayar" class="product__title">
                   <h2 class="h1">
                     Link alternatif Login di sini sekarang juga situs terkuat di bumi Jp berapapun pasti di bayar
@@ -1615,8 +1632,9 @@ Item added to your cart
 
     <script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331704353649" defer="defer"></script></div>
 <div class="product__description rte quick-add-hidden" >
+        <a id="h4Tag" ></a>
         <a title="daftar slot myanmar" href="https://rebrand.ly/asunayuukii55" target="_blank"><img data-mce-fragment="1" alt="daftar slot myanmar" src="https://i.ibb.co/BLFLfrZ/1-logodaftar.png" data-mce-src="https://i.ibb.co/BLFLfrZ/1-logodaftar.png"></a>
-                  <?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!
+                   Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!
                 </div>
               
 <script src="//3d262d-4.myshopify.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191704353658" defer="defer"></script>
@@ -1810,7 +1828,7 @@ Item added to your cart
       "image": [
           "https:\/\/3d262d-4.myshopify.com\/cdn\/shop\/files\/logoslotphising.png?v=1704353783\u0026width=1920"
         ],
-      "description": "<?php echo $product; ?> Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!",
+      "description": " Login link alternatif di sini situs tergacor di indonesia deposit pulsa tanpa potongan jp berapapun pasti di bayar coba gabung dan bermain di sini sekarang juga raih keuntungan sebanyak - banyak nya main sekarang!",
       
       "brand": {
         "@type": "Brand",
